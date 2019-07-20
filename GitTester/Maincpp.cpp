@@ -8,7 +8,7 @@ int main()
 {
 	//
 	print();
-
+	cout << "\t"<<"Hello !!! I am Anna @   @   @ (22:03)20.07.2019  !!! " << endl;
 	//
 	system("pause");
 	return 0;
